@@ -1,0 +1,16 @@
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularDoubleLinkedList\obj\Debug\net5.0\CircularDoubleLinkedList.csproj.AssemblyReference.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularDoubleLinkedList\obj\Debug\net5.0\CircularDoubleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularDoubleLinkedList\obj\Debug\net5.0\CircularDoubleLinkedList.AssemblyInfoInputs.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularDoubleLinkedList\obj\Debug\net5.0\CircularDoubleLinkedList.AssemblyInfo.cs
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularDoubleLinkedList\obj\Debug\net5.0\CircularDoubleLinkedList.csproj.CoreCompileInputs.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularDoubleLinkedList\bin\Debug\net5.0\CircularDoubleLinkedList.exe
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularDoubleLinkedList\bin\Debug\net5.0\CircularDoubleLinkedList.deps.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularDoubleLinkedList\bin\Debug\net5.0\CircularDoubleLinkedList.runtimeconfig.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularDoubleLinkedList\bin\Debug\net5.0\CircularDoubleLinkedList.runtimeconfig.dev.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularDoubleLinkedList\bin\Debug\net5.0\CircularDoubleLinkedList.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularDoubleLinkedList\bin\Debug\net5.0\ref\CircularDoubleLinkedList.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularDoubleLinkedList\bin\Debug\net5.0\CircularDoubleLinkedList.pdb
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularDoubleLinkedList\obj\Debug\net5.0\CircularDoubleLinkedList.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularDoubleLinkedList\obj\Debug\net5.0\ref\CircularDoubleLinkedList.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularDoubleLinkedList\obj\Debug\net5.0\CircularDoubleLinkedList.pdb
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularDoubleLinkedList\obj\Debug\net5.0\CircularDoubleLinkedList.genruntimeconfig.cache

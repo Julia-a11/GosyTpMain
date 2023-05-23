@@ -1,0 +1,16 @@
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\LinkedList\bin\Debug\net5.0\LinkedList.exe
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\LinkedList\bin\Debug\net5.0\LinkedList.deps.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\LinkedList\bin\Debug\net5.0\LinkedList.runtimeconfig.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\LinkedList\bin\Debug\net5.0\LinkedList.runtimeconfig.dev.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\LinkedList\bin\Debug\net5.0\LinkedList.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\LinkedList\bin\Debug\net5.0\ref\LinkedList.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\LinkedList\bin\Debug\net5.0\LinkedList.pdb
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\LinkedList\obj\Debug\net5.0\LinkedList.csproj.AssemblyReference.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\LinkedList\obj\Debug\net5.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\LinkedList\obj\Debug\net5.0\LinkedList.AssemblyInfoInputs.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\LinkedList\obj\Debug\net5.0\LinkedList.AssemblyInfo.cs
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\LinkedList\obj\Debug\net5.0\LinkedList.csproj.CoreCompileInputs.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\LinkedList\obj\Debug\net5.0\LinkedList.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\LinkedList\obj\Debug\net5.0\ref\LinkedList.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\LinkedList\obj\Debug\net5.0\LinkedList.pdb
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\LinkedList\obj\Debug\net5.0\LinkedList.genruntimeconfig.cache

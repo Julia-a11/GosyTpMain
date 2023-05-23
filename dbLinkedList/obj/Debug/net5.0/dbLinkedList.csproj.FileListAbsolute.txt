@@ -1,0 +1,16 @@
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\dbLinkedList\bin\Debug\net5.0\dbLinkedList.exe
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\dbLinkedList\bin\Debug\net5.0\dbLinkedList.deps.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\dbLinkedList\bin\Debug\net5.0\dbLinkedList.runtimeconfig.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\dbLinkedList\bin\Debug\net5.0\dbLinkedList.runtimeconfig.dev.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\dbLinkedList\bin\Debug\net5.0\dbLinkedList.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\dbLinkedList\bin\Debug\net5.0\ref\dbLinkedList.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\dbLinkedList\bin\Debug\net5.0\dbLinkedList.pdb
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\dbLinkedList\obj\Debug\net5.0\dbLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\dbLinkedList\obj\Debug\net5.0\dbLinkedList.AssemblyInfoInputs.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\dbLinkedList\obj\Debug\net5.0\dbLinkedList.AssemblyInfo.cs
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\dbLinkedList\obj\Debug\net5.0\dbLinkedList.csproj.CoreCompileInputs.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\dbLinkedList\obj\Debug\net5.0\dbLinkedList.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\dbLinkedList\obj\Debug\net5.0\ref\dbLinkedList.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\dbLinkedList\obj\Debug\net5.0\dbLinkedList.pdb
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\dbLinkedList\obj\Debug\net5.0\dbLinkedList.genruntimeconfig.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\dbLinkedList\obj\Debug\net5.0\dbLinkedList.csproj.AssemblyReference.cache

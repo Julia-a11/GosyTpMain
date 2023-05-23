@@ -1,0 +1,15 @@
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\BinaryTree\bin\Debug\net5.0\BinaryTree.exe
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\BinaryTree\bin\Debug\net5.0\BinaryTree.deps.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\BinaryTree\bin\Debug\net5.0\BinaryTree.runtimeconfig.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\BinaryTree\bin\Debug\net5.0\BinaryTree.runtimeconfig.dev.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\BinaryTree\bin\Debug\net5.0\BinaryTree.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\BinaryTree\bin\Debug\net5.0\ref\BinaryTree.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\BinaryTree\bin\Debug\net5.0\BinaryTree.pdb
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\BinaryTree\obj\Debug\net5.0\BinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\BinaryTree\obj\Debug\net5.0\BinaryTree.AssemblyInfoInputs.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\BinaryTree\obj\Debug\net5.0\BinaryTree.AssemblyInfo.cs
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\BinaryTree\obj\Debug\net5.0\BinaryTree.csproj.CoreCompileInputs.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\BinaryTree\obj\Debug\net5.0\BinaryTree.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\BinaryTree\obj\Debug\net5.0\ref\BinaryTree.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\BinaryTree\obj\Debug\net5.0\BinaryTree.pdb
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\BinaryTree\obj\Debug\net5.0\BinaryTree.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\QuickSort\obj\Debug\net5.0\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\QuickSort\obj\Debug\net5.0\QuickSort.AssemblyInfoInputs.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\QuickSort\obj\Debug\net5.0\QuickSort.AssemblyInfo.cs
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\QuickSort\obj\Debug\net5.0\QuickSort.csproj.CoreCompileInputs.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\QuickSort\bin\Debug\net5.0\QuickSort.exe
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\QuickSort\bin\Debug\net5.0\QuickSort.deps.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\QuickSort\bin\Debug\net5.0\QuickSort.runtimeconfig.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\QuickSort\bin\Debug\net5.0\QuickSort.runtimeconfig.dev.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\QuickSort\bin\Debug\net5.0\QuickSort.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\QuickSort\bin\Debug\net5.0\ref\QuickSort.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\QuickSort\bin\Debug\net5.0\QuickSort.pdb
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\QuickSort\obj\Debug\net5.0\QuickSort.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\QuickSort\obj\Debug\net5.0\ref\QuickSort.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\QuickSort\obj\Debug\net5.0\QuickSort.pdb
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\QuickSort\obj\Debug\net5.0\QuickSort.genruntimeconfig.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\QuickSort\obj\Debug\net5.0\QuickSort.csproj.AssemblyReference.cache

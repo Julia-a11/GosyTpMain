@@ -1,0 +1,15 @@
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\Graph\bin\Debug\net5.0\Graph.exe
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\Graph\bin\Debug\net5.0\Graph.deps.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\Graph\bin\Debug\net5.0\Graph.runtimeconfig.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\Graph\bin\Debug\net5.0\Graph.runtimeconfig.dev.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\Graph\bin\Debug\net5.0\Graph.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\Graph\bin\Debug\net5.0\ref\Graph.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\Graph\bin\Debug\net5.0\Graph.pdb
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\Graph\obj\Debug\net5.0\Graph.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\Graph\obj\Debug\net5.0\Graph.AssemblyInfoInputs.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\Graph\obj\Debug\net5.0\Graph.AssemblyInfo.cs
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\Graph\obj\Debug\net5.0\Graph.csproj.CoreCompileInputs.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\Graph\obj\Debug\net5.0\Graph.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\Graph\obj\Debug\net5.0\ref\Graph.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\Graph\obj\Debug\net5.0\Graph.pdb
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\Graph\obj\Debug\net5.0\Graph.genruntimeconfig.cache

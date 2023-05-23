@@ -1,0 +1,16 @@
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GosiPractice\bin\Debug\net5.0\GosiPractice.exe
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GosiPractice\bin\Debug\net5.0\GosiPractice.deps.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GosiPractice\bin\Debug\net5.0\GosiPractice.runtimeconfig.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GosiPractice\bin\Debug\net5.0\GosiPractice.runtimeconfig.dev.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GosiPractice\bin\Debug\net5.0\GosiPractice.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GosiPractice\bin\Debug\net5.0\ref\GosiPractice.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GosiPractice\bin\Debug\net5.0\GosiPractice.pdb
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GosiPractice\obj\Debug\net5.0\GosiPractice.csproj.AssemblyReference.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GosiPractice\obj\Debug\net5.0\GosiPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GosiPractice\obj\Debug\net5.0\GosiPractice.AssemblyInfoInputs.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GosiPractice\obj\Debug\net5.0\GosiPractice.AssemblyInfo.cs
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GosiPractice\obj\Debug\net5.0\GosiPractice.csproj.CoreCompileInputs.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GosiPractice\obj\Debug\net5.0\GosiPractice.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GosiPractice\obj\Debug\net5.0\ref\GosiPractice.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GosiPractice\obj\Debug\net5.0\GosiPractice.pdb
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GosiPractice\obj\Debug\net5.0\GosiPractice.genruntimeconfig.cache

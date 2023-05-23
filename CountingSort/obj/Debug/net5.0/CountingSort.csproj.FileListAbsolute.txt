@@ -1,0 +1,16 @@
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CountingSort\bin\Debug\net5.0\CountingSort.exe
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CountingSort\bin\Debug\net5.0\CountingSort.deps.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CountingSort\bin\Debug\net5.0\CountingSort.runtimeconfig.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CountingSort\bin\Debug\net5.0\CountingSort.runtimeconfig.dev.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CountingSort\bin\Debug\net5.0\CountingSort.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CountingSort\bin\Debug\net5.0\ref\CountingSort.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CountingSort\bin\Debug\net5.0\CountingSort.pdb
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CountingSort\obj\Debug\net5.0\CountingSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CountingSort\obj\Debug\net5.0\CountingSort.AssemblyInfoInputs.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CountingSort\obj\Debug\net5.0\CountingSort.AssemblyInfo.cs
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CountingSort\obj\Debug\net5.0\CountingSort.csproj.CoreCompileInputs.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CountingSort\obj\Debug\net5.0\CountingSort.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CountingSort\obj\Debug\net5.0\ref\CountingSort.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CountingSort\obj\Debug\net5.0\CountingSort.pdb
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CountingSort\obj\Debug\net5.0\CountingSort.genruntimeconfig.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CountingSort\obj\Debug\net5.0\CountingSort.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GnomeSort\bin\Debug\net5.0\GnomeSort.exe
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GnomeSort\bin\Debug\net5.0\GnomeSort.deps.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GnomeSort\bin\Debug\net5.0\GnomeSort.runtimeconfig.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GnomeSort\bin\Debug\net5.0\GnomeSort.runtimeconfig.dev.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GnomeSort\bin\Debug\net5.0\GnomeSort.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GnomeSort\bin\Debug\net5.0\ref\GnomeSort.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GnomeSort\bin\Debug\net5.0\GnomeSort.pdb
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GnomeSort\obj\Debug\net5.0\GnomeSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GnomeSort\obj\Debug\net5.0\GnomeSort.AssemblyInfoInputs.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GnomeSort\obj\Debug\net5.0\GnomeSort.AssemblyInfo.cs
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GnomeSort\obj\Debug\net5.0\GnomeSort.csproj.CoreCompileInputs.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GnomeSort\obj\Debug\net5.0\GnomeSort.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GnomeSort\obj\Debug\net5.0\ref\GnomeSort.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GnomeSort\obj\Debug\net5.0\GnomeSort.pdb
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GnomeSort\obj\Debug\net5.0\GnomeSort.genruntimeconfig.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\GnomeSort\obj\Debug\net5.0\GnomeSort.csproj.AssemblyReference.cache

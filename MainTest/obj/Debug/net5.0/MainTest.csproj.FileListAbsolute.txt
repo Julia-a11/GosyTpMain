@@ -1,0 +1,15 @@
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\MainTest\bin\Debug\net5.0\MainTest.exe
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\MainTest\bin\Debug\net5.0\MainTest.deps.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\MainTest\bin\Debug\net5.0\MainTest.runtimeconfig.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\MainTest\bin\Debug\net5.0\MainTest.runtimeconfig.dev.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\MainTest\bin\Debug\net5.0\MainTest.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\MainTest\bin\Debug\net5.0\ref\MainTest.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\MainTest\bin\Debug\net5.0\MainTest.pdb
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\MainTest\obj\Debug\net5.0\MainTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\MainTest\obj\Debug\net5.0\MainTest.AssemblyInfoInputs.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\MainTest\obj\Debug\net5.0\MainTest.AssemblyInfo.cs
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\MainTest\obj\Debug\net5.0\MainTest.csproj.CoreCompileInputs.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\MainTest\obj\Debug\net5.0\MainTest.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\MainTest\obj\Debug\net5.0\ref\MainTest.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\MainTest\obj\Debug\net5.0\MainTest.pdb
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\MainTest\obj\Debug\net5.0\MainTest.genruntimeconfig.cache

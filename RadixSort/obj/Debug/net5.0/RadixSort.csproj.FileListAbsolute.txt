@@ -1,0 +1,16 @@
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\RadixSort\bin\Debug\net5.0\RadixSort.exe
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\RadixSort\bin\Debug\net5.0\RadixSort.deps.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\RadixSort\bin\Debug\net5.0\RadixSort.runtimeconfig.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\RadixSort\bin\Debug\net5.0\RadixSort.runtimeconfig.dev.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\RadixSort\bin\Debug\net5.0\RadixSort.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\RadixSort\bin\Debug\net5.0\ref\RadixSort.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\RadixSort\bin\Debug\net5.0\RadixSort.pdb
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\RadixSort\obj\Debug\net5.0\RadixSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\RadixSort\obj\Debug\net5.0\RadixSort.AssemblyInfoInputs.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\RadixSort\obj\Debug\net5.0\RadixSort.AssemblyInfo.cs
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\RadixSort\obj\Debug\net5.0\RadixSort.csproj.CoreCompileInputs.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\RadixSort\obj\Debug\net5.0\RadixSort.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\RadixSort\obj\Debug\net5.0\ref\RadixSort.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\RadixSort\obj\Debug\net5.0\RadixSort.pdb
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\RadixSort\obj\Debug\net5.0\RadixSort.genruntimeconfig.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\RadixSort\obj\Debug\net5.0\RadixSort.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularLinkedList\bin\Debug\net5.0\CircularLinkedList.exe
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularLinkedList\bin\Debug\net5.0\CircularLinkedList.deps.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularLinkedList\bin\Debug\net5.0\CircularLinkedList.runtimeconfig.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularLinkedList\bin\Debug\net5.0\CircularLinkedList.runtimeconfig.dev.json
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularLinkedList\bin\Debug\net5.0\CircularLinkedList.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularLinkedList\bin\Debug\net5.0\ref\CircularLinkedList.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularLinkedList\bin\Debug\net5.0\CircularLinkedList.pdb
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularLinkedList\obj\Debug\net5.0\CircularLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularLinkedList\obj\Debug\net5.0\CircularLinkedList.AssemblyInfoInputs.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularLinkedList\obj\Debug\net5.0\CircularLinkedList.AssemblyInfo.cs
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularLinkedList\obj\Debug\net5.0\CircularLinkedList.csproj.CoreCompileInputs.cache
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularLinkedList\obj\Debug\net5.0\CircularLinkedList.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularLinkedList\obj\Debug\net5.0\ref\CircularLinkedList.dll
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularLinkedList\obj\Debug\net5.0\CircularLinkedList.pdb
+D:\Study\Госы\ГосыПрактикаТест\GosiPractice\GosiPractice\CircularLinkedList\obj\Debug\net5.0\CircularLinkedList.genruntimeconfig.cache
